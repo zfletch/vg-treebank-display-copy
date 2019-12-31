@@ -49,6 +49,23 @@
               "chunks": { "start": 1, "end": 149 }
             }
           ]
+        },
+        {
+          "path": "aristotle-politics",
+          "author": "Aristotle",
+          "work": "Politics",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1.1252a-1.1260b",
+              "path": "aristotle-politics-book-1-bu1",
+              "xml": "aristotle-politics-book-1-bu1.xml",
+              "chunks": {
+                "start": 1,
+                "end": 331
+              }
+            }
+          ]
         }
       ]
     },
