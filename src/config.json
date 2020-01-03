@@ -30,6 +30,22 @@
           ]
         },
         {
+          "path": "unit-2-2-nouns",
+          "author": "Xenophon",
+          "work": "Abridged Selections",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-137",
+              "path": "unit-2-2-nouns",
+              "xml": "Unit-2_2-nouns-trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 137 }
+            }
+          ]
+        },    
+        {
           "path": "on-the-crown",
           "author": "Demosthenes",
           "work": "On the Crown",
