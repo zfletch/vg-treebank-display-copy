@@ -44,6 +44,22 @@
               "chunks": { "start": 1, "end": 137 }
             }
           ]
+        },  
+        {
+          "path": "test-trees",
+          "author": "Xenophon",
+          "work": "Abridged Selections",
+          "editors": "Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-137",
+              "path": "test-trees",
+              "xml": "test-trees.xml",
+              "link": "https://www.example.com",
+              "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+              "chunks": { "start": 1, "end": 137 }
+            }
+          ]
         },    
         {
           "path": "on-the-crown",
