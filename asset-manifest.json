@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/vg-treebank-display-copy/static/css/main.bd98509e.chunk.css",
-    "main.js": "/vg-treebank-display-copy/static/js/main.30b87f63.chunk.js",
-    "main.js.map": "/vg-treebank-display-copy/static/js/main.30b87f63.chunk.js.map",
-    "runtime-main.js": "/vg-treebank-display-copy/static/js/runtime-main.691e21b1.js",
-    "runtime-main.js.map": "/vg-treebank-display-copy/static/js/runtime-main.691e21b1.js.map",
-    "static/css/2.0121959d.chunk.css": "/vg-treebank-display-copy/static/css/2.0121959d.chunk.css",
-    "static/js/2.dcdf0b14.chunk.js": "/vg-treebank-display-copy/static/js/2.dcdf0b14.chunk.js",
-    "static/js/2.dcdf0b14.chunk.js.map": "/vg-treebank-display-copy/static/js/2.dcdf0b14.chunk.js.map",
+    "main.js": "/vg-treebank-display-copy/static/js/main.d9fc8810.chunk.js",
+    "main.js.map": "/vg-treebank-display-copy/static/js/main.d9fc8810.chunk.js.map",
+    "runtime-main.js": "/vg-treebank-display-copy/static/js/runtime-main.53119b17.js",
+    "runtime-main.js.map": "/vg-treebank-display-copy/static/js/runtime-main.53119b17.js.map",
+    "static/css/2.354f031a.chunk.css": "/vg-treebank-display-copy/static/css/2.354f031a.chunk.css",
+    "static/js/2.1992d177.chunk.js": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js",
+    "static/js/2.1992d177.chunk.js.map": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js.map",
     "index.html": "/vg-treebank-display-copy/index.html",
-    "precache-manifest.13af0a5c0d98ced2775cb1367f408f33.js": "/vg-treebank-display-copy/precache-manifest.13af0a5c0d98ced2775cb1367f408f33.js",
+    "precache-manifest.44c5366a800ebbc5e74b66a088a11fb4.js": "/vg-treebank-display-copy/precache-manifest.44c5366a800ebbc5e74b66a088a11fb4.js",
     "service-worker.js": "/vg-treebank-display-copy/service-worker.js",
-    "static/css/2.0121959d.chunk.css.map": "/vg-treebank-display-copy/static/css/2.0121959d.chunk.css.map",
+    "static/css/2.354f031a.chunk.css.map": "/vg-treebank-display-copy/static/css/2.354f031a.chunk.css.map",
     "static/css/main.bd98509e.chunk.css.map": "/vg-treebank-display-copy/static/css/main.bd98509e.chunk.css.map",
-    "static/js/2.dcdf0b14.chunk.js.LICENSE.txt": "/vg-treebank-display-copy/static/js/2.dcdf0b14.chunk.js.LICENSE.txt"
+    "static/js/2.1992d177.chunk.js.LICENSE.txt": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.691e21b1.js",
-    "static/css/2.0121959d.chunk.css",
-    "static/js/2.dcdf0b14.chunk.js",
+    "static/js/runtime-main.53119b17.js",
+    "static/css/2.354f031a.chunk.css",
+    "static/js/2.1992d177.chunk.js",
     "static/css/main.bd98509e.chunk.css",
-    "static/js/main.30b87f63.chunk.js"
+    "static/js/main.d9fc8810.chunk.js"
   ]
 }
