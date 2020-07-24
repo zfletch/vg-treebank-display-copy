@@ -1,15 +1,12 @@
 name: update
 
-# on:
-#   workflow_dispatch:
-#     inputs:
-#       release:
-#         description: 'Release commit (defaults to latest)'
-#         required: false
-#         default: 'source/master'
 on:
-  push:
-    branches: [master]
+  workflow_dispatch:
+    inputs:
+      release:
+        description: 'Release commit (defaults to latest)'
+        required: false
+        default: 'source/master'
 
 jobs:
   update:
