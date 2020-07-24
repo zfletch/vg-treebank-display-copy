@@ -21,15 +21,13 @@ jobs:
         run: node scripts/package-json-merge.js
 
       - name: Configure git
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+        run: bash scripts/configure-git-for-actions.sh
 
       - name: Create commit
         run: bash scripts/commit-update.sh ${{ github.event.inputs.release }}
 
       - name: Push changes
-        run: git push origin master
+        run: bash scripts/push-to-master.sh
 
       # Actions that push to GitHub don't currently trigger other actions:
       # https://github.community/t/triggering-a-new-workflow-from-another-workflow/16250

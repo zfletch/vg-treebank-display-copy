@@ -27,6 +27,10 @@ git checkout origin/master README.md
 git checkout origin/master src/config.json
 git checkout origin/master .github/funding.yml
 
+# Workflows cannot themselves touch workflow files
+# https://github.community/t/github-linting-remote-rejected/121365
+git checkout origin/master .github/workflows
+
 # TODO - this is just for testing since source does not yet contain
 # the `scripts/` directory
 git checkout origin/master scripts
