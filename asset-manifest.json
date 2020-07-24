@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/vg-treebank-display-copy/static/css/main.bd98509e.chunk.css",
-    "main.js": "/vg-treebank-display-copy/static/js/main.d9fc8810.chunk.js",
-    "main.js.map": "/vg-treebank-display-copy/static/js/main.d9fc8810.chunk.js.map",
+    "main.js": "/vg-treebank-display-copy/static/js/main.6dc55278.chunk.js",
+    "main.js.map": "/vg-treebank-display-copy/static/js/main.6dc55278.chunk.js.map",
     "runtime-main.js": "/vg-treebank-display-copy/static/js/runtime-main.53119b17.js",
     "runtime-main.js.map": "/vg-treebank-display-copy/static/js/runtime-main.53119b17.js.map",
-    "static/css/2.354f031a.chunk.css": "/vg-treebank-display-copy/static/css/2.354f031a.chunk.css",
-    "static/js/2.1992d177.chunk.js": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js",
-    "static/js/2.1992d177.chunk.js.map": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js.map",
+    "static/css/2.0379961b.chunk.css": "/vg-treebank-display-copy/static/css/2.0379961b.chunk.css",
+    "static/js/2.a6c03dfe.chunk.js": "/vg-treebank-display-copy/static/js/2.a6c03dfe.chunk.js",
+    "static/js/2.a6c03dfe.chunk.js.map": "/vg-treebank-display-copy/static/js/2.a6c03dfe.chunk.js.map",
     "index.html": "/vg-treebank-display-copy/index.html",
-    "precache-manifest.44c5366a800ebbc5e74b66a088a11fb4.js": "/vg-treebank-display-copy/precache-manifest.44c5366a800ebbc5e74b66a088a11fb4.js",
+    "precache-manifest.41a280a8cdf34f319c2ef9fa2df7f233.js": "/vg-treebank-display-copy/precache-manifest.41a280a8cdf34f319c2ef9fa2df7f233.js",
     "service-worker.js": "/vg-treebank-display-copy/service-worker.js",
-    "static/css/2.354f031a.chunk.css.map": "/vg-treebank-display-copy/static/css/2.354f031a.chunk.css.map",
+    "static/css/2.0379961b.chunk.css.map": "/vg-treebank-display-copy/static/css/2.0379961b.chunk.css.map",
     "static/css/main.bd98509e.chunk.css.map": "/vg-treebank-display-copy/static/css/main.bd98509e.chunk.css.map",
-    "static/js/2.1992d177.chunk.js.LICENSE.txt": "/vg-treebank-display-copy/static/js/2.1992d177.chunk.js.LICENSE.txt"
+    "static/js/2.a6c03dfe.chunk.js.LICENSE.txt": "/vg-treebank-display-copy/static/js/2.a6c03dfe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53119b17.js",
-    "static/css/2.354f031a.chunk.css",
-    "static/js/2.1992d177.chunk.js",
+    "static/css/2.0379961b.chunk.css",
+    "static/js/2.a6c03dfe.chunk.js",
     "static/css/main.bd98509e.chunk.css",
-    "static/js/main.d9fc8810.chunk.js"
+    "static/js/main.6dc55278.chunk.js"
   ]
 }
