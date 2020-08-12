@@ -5,7 +5,7 @@ on:
     inputs:
       release:
         description: 'Release commit (defaults to latest)'
-        required: false
+        required: true
         default: 'source/master'
 
 jobs:
