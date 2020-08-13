@@ -16,6 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Validate version string
+        run: node scripts/verify-semver.js ${{ github.event.inputs.version }}
+
       - name: Update package.json
         run: node scripts/package-json-update-version.js ${{ github.event.inputs.version }}
 

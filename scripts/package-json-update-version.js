@@ -13,20 +13,7 @@ const packageJson = JSON.parse(
 );
 
 // Get the version number from ARGV
-let version = process.argv[2];
-
-// Exit with error if there is no version number
-if (version === undefined) {
-  // eslint-disable-next-line no-console
-  console.log('No version number provided');
-  process.exit(1);
-}
-
-// If the version starts with `vX.Y.Z` where X, Y, and Z are numbers,
-// then remove the `v` from the beginning
-if (/^v\d+\.\d+.\d+/.test(version)) {
-  version = version.substr(1);
-}
+const version = process.argv[2];
 
 // Replace the relevant fields
 packageJson.version = version;
