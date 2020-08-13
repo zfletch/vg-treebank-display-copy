@@ -12,8 +12,8 @@ const packageJson = JSON.parse(
   readFileSync('package.json', { encoding: 'utf8', flag: 'r' }),
 );
 
-// Get the version number from ARGV
-const version = process.argv[2];
+// Get the version number from ARGV and remove `v` from the beginning
+const version = process.argv[2].substr(1);
 
 // Replace the relevant fields
 packageJson.version = version;
