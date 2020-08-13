@@ -1,6 +1,6 @@
 {
   "name": "vg-treebank-display-copy",
-  "version": "v3.3.3",
+  "version": "4.1.2",
   "treebank-template": {
     "version": "3.2.0"
   },
